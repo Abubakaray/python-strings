@@ -1,0 +1,38 @@
+# name = "shinkafa"
+# print(name)
+# food = "tuwo"
+# print(food)
+# print(5 * 2)
+# money = "Abubakar"
+# print(money[0])
+# print(money[1])
+# print(money[2])
+# print(money[3])
+# print(money[4])
+# print(money[5])
+# print(money[6])
+# print(money[7])
+# print(len(money))
+#country = "nigeria"
+#print(country[0:3])
+#print(country[:4])
+#print(country[2:])
+#print(country[::2])
+#print(country[-1])
+text = 'Transformation'
+print(len(text[:6])/len(text[:2]))
+print(text[3:6])
+print(text[:6])
+print(text[4:])
+print(text[-6:])
+print(text[:])
+print(text[1:12:2])
+print(text[::-1])
+print(len(text[:4])+len(text[:2]))
+print(len(text[:3])*len(text[:2]))
+disease = "pneumonoultramicroscopicsilicovolcanoconiosis"
+print(disease[:6])
+print(disease[-10:])
+print(disease[18:25])
+print(disease[25])
+print(len(disease[:])/len(disease[:3]))
